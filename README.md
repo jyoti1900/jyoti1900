@@ -1,4 +1,4 @@
-![logo](https://github.com/jyoti1900/jyoti1900/blob/main/download%20(1).jpeg)
+![logo](https://github.com/jyoti1900/jyoti1900/blob/main/download%20(1)%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Jyotipriya Das</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
 
