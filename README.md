@@ -12,7 +12,7 @@
 
 - 🤝 I'm Worked as a Software Developer Intern on ScriptCode Innovation [Hospital Website](https://development.d2qbz03oanxova.amplifyapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://jyotipriyadas-portfolio.netlify.app/](https://jyotipriyadas-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jyotipriyadas.netlify.app/](https://jyotipriyadas.netlify.app/)
 
 - 💬 Ask me about **Nodejs, MongoDB, Manual API creation etc.**
 
