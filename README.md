@@ -1,6 +1,6 @@
 ![logo](https://github.com/jyoti1900/jyoti1900/blob/main/download%20(1)%20-%20Copy.png)
 <h1 align="center">Hi 👋, I'm Jyotipriya Das</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif">
 
