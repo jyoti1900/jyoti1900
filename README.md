@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti1900&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti1900" /> </p>
 
-- 🔭 I’m currently working on ScriptCode Innovation (Sep,2024 - Present) [Mudblock Website](https://ishamudblocks.com/)
+- 🔭 I’m currently working on ScriptCode Innovation.
 
-- 🌱 I’m currently learning **MCA & Backend Development**
+- 🌱 I’m currently learning **MCA & Backend Development**.
 
-- 🤝 I'm Worked as a Software Developer Intern on ScriptCode Innovation (Jan,2024 - Aug,2024) [Hospital Website](https://development.d2qbz03oanxova.amplifyapp.com/)
+- 🤝 I'm Worked as a Software Developer Intern on ScriptCode Innovation.
 
 - 👨‍💻 All of my projects are available at [https://jyotipriyadas.netlify.app/](https://jyotipriyadas.netlify.app/)
 
 - 💬 Ask me about **Nodejs, MongoDB, Manual API creation etc.**
 
-- 📫 How to reach me **jyotipriyadas802@gmail.com**
+- 📫 How to reach me **jyotipriyadas802@gmail.com**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1APZJ9nnRpchhEpueM0CvC3o_OWgfQ3JR/view?usp=sharing](https://drive.google.com/file/d/1APZJ9nnRpchhEpueM0CvC3o_OWgfQ3JR/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://jyotipriyadas.netlify.app/assets/img/Jyotipriya_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
