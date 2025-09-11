@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jyotipriyadas802@gmail.com**.
 
-- 📄 Know about my experiences [My Resume](https://jyotipriyadas.netlify.app/assets/img/Jyotipriya_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://jyotipriyadas.netlify.app/assets/img/Jyotipriyadas_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
