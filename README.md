@@ -1,7 +1,5 @@
 # Hi, I'm Jyotipriya Das 👋
 
-## 👨‍💻 Who am I?
-
 Full-Stack Software Developer passionate about building scalable backend systems, secure REST APIs, and cloud-native applications using modern technologies.
 
 ---
