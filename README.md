@@ -54,5 +54,4 @@ Full-Stack Software Developer passionate about building scalable backend systems
 
 - 🌐 **Portfolio:** https://jyotipriyadas.netlify.app
 - 💼 **LinkedIn:** https://linkedin.com/in/jyotipriyadas2003
-- 📧 **Email:** jyotipriyadas802@gmail.com
 - 📄 **Resume:** https://jyotipriyadas.netlify.app/assets/img/Jyotipriyadas_Resume.pdf
