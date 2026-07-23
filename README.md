@@ -1,33 +1,57 @@
-![logo](https://github.com/jyoti1900/jyoti1900/blob/main/download%20(1)%20-%20Copy.png)
-<h1 align="center">Hi 👋, I'm Jyotipriya Das</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+# Hi, I'm Jyotipriya Das 👋
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif">
+## 👨‍💻 Who am I?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti1900&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti1900" /> </p>
+Full-Stack Software Developer with expertise in building scalable web applications and backend systems. Passionate about developing secure REST APIs, cloud-native applications, and solving real-world problems using modern technologies.
 
-- 🔭 I’m currently working on ScriptCode Innovation.
+---
 
-- 🌱 I’m currently learning **MCA & Backend Development**.
+## 🚀 What am I currently working on?
 
-- 🤝 I'm Worked as a Software Developer Intern on ScriptCode Innovation.
+- Software Developer at **ScriptCode Innovation**
+- Building scalable backend applications with **Node.js** and **TypeScript**
+- Exploring **AWS, Docker, CI/CD, and System Design**
+- Continuously improving backend architecture and cloud development skills
 
-- 👨‍💻 All of my projects are available at [https://jyotipriyadas.netlify.app/](https://jyotipriyadas.netlify.app/)
+---
 
-- 💬 Ask me about **Nodejs, MongoDB, Manual API creation etc.**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **jyotipriyadas802@gmail.com**.
+**Languages**
+- JavaScript
+- TypeScript
+- Java
+- SQL
 
-- 📄 Know about my experiences [My Resume](https://jyotipriyadas.netlify.app/assets/img/Jyotipriyadas_Resume.pdf)
+**Backend**
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jyotipriya-das-151274248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotipriya-das-151274248" height="30" width="40" /></a>
-<a href="https://fb.com/jyotipriya.das.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jyotipriya.das.10" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_jyotipriya.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_jyotipriya.tech" height="30" width="40" /></a> 
-<a href="https://www.leetcode.com/jyotipriya802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotipriya802" height="30" width="40" /></a>
-</p>
+**Frontend**
+- React.js
+- Next.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Database**
+- MongoDB
+- MySQL
 
+**Cloud & DevOps**
+- AWS (EC2, S3, CloudFront)
+- Docker
+- CI/CD
+- Git & GitHub
+
+**Tools**
+- Postman
+- Swagger
+- Linux
+
+---
+
+## 📫 Reach Me
+
+- **Portfolio:** https://jyotipriyadas.netlify.app
+- **LinkedIn:** https://linkedin.com/in/jyotipriyadas2003
+- **Resume:** https://jyotipriyadas.netlify.app/assets/img/Jyotipriyadas_Resume.pdf
