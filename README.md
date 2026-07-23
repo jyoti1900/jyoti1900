@@ -8,7 +8,6 @@ Full-Stack Software Developer passionate about building scalable backend systems
 
 ## 🚀 Currently Working On
 
-- Software Developer at **ScriptCode Innovation**
 - Building scalable backend applications with **Node.js** & **TypeScript**
 - Learning **AWS, Docker, CI/CD, and System Design**
 
